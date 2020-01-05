@@ -1,5 +1,5 @@
 BEGIN TRANSACTION
-
+--insert customer
 INSERT INTO CUSTOMER(First_name,Last_name,Gsm,Email,Street,City,House_number,zip_code)
 Values('Stefie','Davids',047585841,'Stefie.Davids@hotmail.com','guidogezellelaan','Kortrijk','94B',8500);
 
@@ -13,5 +13,12 @@ Values(6,2,'Sputini Group',5,'9',116,10,3);
 INSERT INTO CUSTOMER_ORDER(Customer_ID,Order_status,Order_date,Deliver_date,Staff_ID,Product_ID,Order_ID)
 Values(3,'Ontvangen',5/01/2020,8/01/2020,10,6,21);
 
-
 ROLLBACK TRANSACTION
+
+BEGIN TRANSACTION
+
+UPDATE CUSTOMER
+		set First_name = 'abdellah'
+		where id = 3
+
+COMMIT TRANSACTION
