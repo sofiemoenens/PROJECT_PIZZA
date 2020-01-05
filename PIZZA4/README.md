@@ -9,7 +9,7 @@ USER
 -------------------------------------------------------------------------------------------
 
 1 - KLANTEN
---- story verder uitgewerkt - 1.1 ---
+--- story verder uitgewerkt - 1.2 ---
 
 1.1  ALS klant wil ik mijn bestellingen kunnen ingeven                                   ZODAT ik dit kan laten leveren op het gekozen adres,
 1.2  ALS klant wil ik mijn voorgaande bestellingen kunnen opvragen                       ZODAT ik kan zien wat ik de vorige keer besteld heb,
@@ -39,15 +39,12 @@ USER
 Kort om kunnen zien wie welke pizza besteld heeft en wie ze geleverd heeft.
 
 3 - KEUKEN PERSONNEEL
---- story verder uitgewerkt - 1.1 ---
+--- story verder uitgewerkt - 3.3 ---
 
 3.1  ALS keuken medewerker wil ik de bestellingen kunnen zien                            ZODAT ik kan aanvinken welke klaar zijn voor levering.
 3.2  ALS keuken medewerker wil ik aankoopbestellingen kunnen zien                        ZODAT ik de levering kan controleren op FBL
 3.3  ALS keuken medewerker wil ik lijst van elk product hoeveel stock er moet zijn       ZODAT we kunnen controleren, indien niet gelijk door geven aan Admin
 3.4  ALS keuken medewerker wil ik kunnen zien of de klant cash betaald                   ZODAT bezorger genoeg wisselgeld bij zich heeft
 3.5  ALS keuken medewerker wil ik bestellingen manueel in kunnen geven                   ZODAT wanneer de bestelling niet lukt via app
-3.6  ALS keuken medewerker wil ik
-3.7  ALS keuken medewerker wil ik
-3.8  ALS keuken medewerker wil ik
-3.9  ALS keuken medewerker wil ik
-3.10 ALS keuken medewerker wil ik
+
+voor deze heb ik lang gedacht, wat ze nog zouden kunnen, maar niet elke user kan evenveel in een programma.
