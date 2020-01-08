@@ -45,6 +45,6 @@ Kort om kunnen zien wie welke pizza besteld heeft en wie ze geleverd heeft.
 3.2  ALS keuken medewerker wil ik aankoopbestellingen kunnen zien                        ZODAT ik de levering kan controleren op FBL
 3.3  ALS keuken medewerker wil ik lijst van elk product hoeveel stock er moet zijn       ZODAT we kunnen controleren, indien niet gelijk door geven aan Admin
 3.4  ALS keuken medewerker wil ik kunnen zien of de klant cash betaald                   ZODAT bezorger genoeg wisselgeld bij zich heeft
-3.5  ALS keuken medewerker wil ik bestellingen manueel in kunnen geven                   ZODAT wanneer de bestelling niet lukt via app
+3.5  ALS keuken medewerker wil ik bestellingen manueel in kunnen geven of aanpassen      ZODAT wanneer de bestelling niet lukt via app of die gemist hebben
 
 voor deze heb ik lang gedacht, wat ze nog zouden kunnen, maar niet elke user kan evenveel in een programma.
